@@ -4,8 +4,8 @@ ORGANISATIONS = [
         "name": "example-org",
         "repositories": [
             "repo1",
-			"repo2",
-			"repo3",
+            "repo2",
+            "repo3",
         ]
     },
 ]
